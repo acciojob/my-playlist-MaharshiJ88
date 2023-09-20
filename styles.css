@@ -1,1 +1,67 @@
 /*  your css code here. If applicable */
+:root {
+  background: rgb(204,204,204);
+}
+
+#box1 {
+	width: 550px;
+	height: 150px;
+	background-color: white;
+	border: 2px solid black;
+	border-radius: 5px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+}
+
+ul {
+	line-height: 1.5;
+	display: block;
+	margin-left: 5px;
+}
+
+#box2 {
+	width: 450px;
+	height: 465px;
+	background-color: rgb(255, 255, 255);
+	border: 2px solid black;
+	border-radius: 5px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+}
+
+.player_one {
+	width: 450px;
+	height: 300px;
+	padding: 0.5px;
+	border-radius: 3px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.player_two {
+	width: 430px;
+	padding: 0.5px;
+	border-radius: 3px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
