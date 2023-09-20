@@ -1,12 +1,12 @@
 /*  your css code here. If applicable */
-:root {
+/* :root {
   background: rgb(204,204,204);
-}
+} */
 
 #box1 {
 	width: 550px;
 	height: 150px;
-	background-color: white;
+	background-color: rgb(255, 255, 255);
 	border: 2px solid black;
 	border-radius: 5px;
 	display: block;
