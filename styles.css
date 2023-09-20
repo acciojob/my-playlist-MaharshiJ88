@@ -21,6 +21,10 @@ ul {
 	margin-left: 5px;
 }
 
+li {
+	list-style-type: none;
+}
+
 #box2 {
 	width: 450px;
 	height: 465px;
